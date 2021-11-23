@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5b44689-82b4-43f8-922a-1d067c5e9a13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/Leetcode_100.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/Leetcode_100.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/leetcode_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/leetcode_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Leetcode_100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode_100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/leetcode_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Leetcode_01.java" afterDir="false" />
-    </list>
+    <list default="true" id="f5b44689-82b4-43f8-922a-1d067c5e9a13" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,6 +171,7 @@
       <workItem from="1632276320256" duration="764000" />
       <workItem from="1632277104487" duration="409000" />
       <workItem from="1632277529950" duration="346000" />
+      <workItem from="1637313187818" duration="1000" />
     </task>
     <servers />
   </component>
